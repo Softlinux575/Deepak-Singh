@@ -1,4 +1,3 @@
-![logo](https://github.com/Softlinux575/Deepak-Singh/blob/main/Github.png)
 <h1 align="center">Hi 👋, I'm Deepak Singh</h1>
 <h3 align="center">A passionate Full stack MERN stack developer from India</h3>
 
